@@ -4,13 +4,13 @@
 
 # 1. Reverse a string (HINT: Review the Algorithms + Problem Solving PowerPoint!)
 
-# word = 'Bogus'
-# reversed_word = ''
+word = 'Bogus'
+reversed_word = ''
 
-# for index in range(len(word) -1, -1, -1):
-#     reversed_word += word[index]
+for index in range(len(word) -1, -1, -1):
+    reversed_word += word[index]
 
-# print(reversed_word)
+print(reversed_word)
 
 # a. Write code that takes a string as input and returns the string reversed
 
